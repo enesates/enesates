@@ -1,6 +1,8 @@
 # 👋 Hey there, I'm Enes!
-Senior Backend Engineer with experience designing and building scalable, cloud-native backend systems. Holds a Master’s in Computer Engineering
-with a focus on Machine Learning. Currently working as a Freelance Engineer & Content Creator, focusing on backend projects and exploring AI tools.
+Senior Software Engineer focused on building scalable, cloud-native backend systems and event-driven architectures.
+Experienced in designing and shipping production-grade services.
+Master's degree in Computer Engineering with a focus on Machine Learning.
+Currently working as a Freelance Engineer, building backend systems and exploring AI/LLM-driven tools.
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
